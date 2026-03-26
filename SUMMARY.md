@@ -63,5 +63,6 @@
 * [Overview](faqs/README.md)
 * [Common Questions](faqs/general-questions.md)
 * [Troubleshooting Uploads](faqs/troubleshooting-uploads.md)
+* [Troubleshooting Save Issues](faqs/troubleshooting-save-issues.md)
 * [Browser Compatibility](faqs/browser-compatibility.md)
 * [Contacting Support](faqs/contacting-support.md)
