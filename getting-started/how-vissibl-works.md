@@ -1,23 +1,25 @@
-# How Vissibl Works — Platform Overview
+# Platform Overview
 
-Vissibl is organised around a few core areas you'll use regularly:
+Here's where everything lives.
 
-**Dashboard** — Your compliance command center. See your audit readiness status, open risks, non-conformities, and what needs attention at a glance.
+---
 
-**Documents & Policies** — Where your manuals, policies, and procedures live. Vissibl uses a clean, Notion-style editor. You can draft, review, approve, and publish documents with full version history.
+**Dashboard.** Your starting point. See audit readiness across your frameworks, open risks, pending approvals, and what needs attention, all in one view.
 
-**Vault** — Your secure document store. Upload existing files here — Vissibl's AI will analyse them, extract metadata, and use them as context when answering your questions or identifying gaps.
+**Documents & Policies.** Where your manuals, policies, and procedures live. Draft, review, approve, and publish with full version history using a clean, Notion-style editor.
 
-**Risk Management** — Your risk register with a 5×5 scoring matrix. Assign owners, track treatments, and monitor implementation status.
+**Vault.** Your secure document store. Upload your existing files here. Vissi will analyse them, extract metadata, and use them as context when answering your questions or identifying gaps.
 
-**Non-Conformities** — Track NCRs and CAPAs with a visual board. Drag and drop items between statuses, document root causes, and link corrective actions.
+**Risk Management.** Track and score risks, assign owners, and monitor how treatments are progressing. Each risk links back to the frameworks and controls it affects.
 
-**Audits** — Plan and run internal and external audits by department. Checklists are auto-generated based on the clauses you select.
+**Non-Conformities.** Track NCRs and CAPAs on a visual board. Drag items between statuses, document root causes, and link corrective actions to the relevant procedures.
 
-**Registers** — Flexible tables for tracking training, assets, interested parties, and anything else you need. Add custom columns, assign owners, and attach files.
+**Audits.** Plan and run internal and external audits by department. Select the clauses you want to cover and Vissibl generates the checklists for you.
 
-**Vendor Management** — Onboard vendors, run automated research, score compliance, and track certifications and expiries.
+**Registers.** Flexible tables for tracking training, assets, interested parties, and anything else your program requires. Add custom columns, assign owners, and attach files.
 
-**Organisational Chart** — Define your departments, roles, and reporting lines. This feeds into audit planning and document assignments.
+**Vendor Management.** Onboard vendors, run automated research on their compliance status, score risk, and track certifications and expiry dates in one place.
 
-**Vissi (AI Assistant)** — Ask compliance questions in plain English. Vissi answers using your documents and company context, with source citations.
+**Organisational Chart.** Define your departments, roles, and reporting lines. This feeds into audit planning and document assignments across the platform.
+
+**Vissi (AI Assistant).** Ask compliance questions in plain English. Vissi answers using your documents and company context, with source citations so you can verify everything.
