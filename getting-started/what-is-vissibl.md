@@ -1,11 +1,13 @@
 # What is Vissibl?
 
-Vissibl is a compliance operations platform with an AI co-pilot. It brings your quality, health, safety, and environmental (QHSE) management and vendor oversight into one place — replacing scattered spreadsheets, SharePoint sites, and ring binders with a single, live system of record.
+Vissibl is a compliance operations platform with an AI co-pilot called Vissi. It brings your QHSE frameworks, documentation, evidence, risk registers, and vendor management into one place. Vissi handles the busywork - drafting and updating documents, collecting evidence, checking vendor readiness, flagging gaps - while your team stays in control of the decisions that matter. The longer you use it, the more it learns about your business, and the sharper it gets.
 
-Vissibl helps you:
+## What Vissibl does
 
-* **Get audit-ready faster** — AI drafts your policies, procedures, and risk registers based on how your organisation actually works, then your team reviews and approves them.
-* **Stay audit-ready between visits** — track non-conformities, evidence, training, and vendor compliance in real time so surveillance audits feel like a formality, not a fire drill.
-* **Manage vendor risk** — onboard, evaluate, and monitor your suppliers with automated research and compliance scoring.
+* **Permanent Audit Readiness** - AI agents gather evidence from your systems continuously, so you're always ready for an audit, not just when one is coming up.
+* **Operational Velocity** - Compliance runs in the background while your team focuses on execution.
+* **Revenue Acceleration** - Maintain certifications and unlock enterprise contracts with evidence that's always up to date.
 
-Vissibl supports ISO 9001, ISO 14001, ISO 45001, and integrated management systems (IMS). Your AI assistant, Vissi, can answer compliance questions grounded in your own documents, with citations.
+## Supported frameworks
+
+Vissibl supports all major compliance frameworks including ISO 9001, ISO 14001, ISO 45001, ISO 27001, QBCC, WHS, API Q1/Q2, AS9100, IATF 16949, and more.
