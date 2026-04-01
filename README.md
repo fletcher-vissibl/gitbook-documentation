@@ -1,6 +1,6 @@
-# Vissibl Help Centre
+# Vissibl Knowledge Centre
 
-Welcome to the Vissibl Help Centre. Find guides, tutorials, and reference material to help you get the most out of Vissibl.
+Welcome to the Vissibl Knowledge Centre. Find guides, tutorials, and reference material to help you get the most out of Vissibl.
 
 ## Quick Links
 
