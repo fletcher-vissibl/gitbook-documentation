@@ -8,8 +8,8 @@
   * [What is Vissibl?](getting-started/what-is-vissibl.md)
   * [Platform Overview](getting-started/how-vissibl-works.md)
   * [Key Concepts & Terminology](getting-started/key-concepts-and-terminology.md)
-  * [Accepting Your Invite & Setting Your Password](getting-started/accepting-your-invite.md)
   * [Uploading Your Documents](getting-started/uploading-documents-to-the-vault.md)
+  * [Accepting Your Invite & Setting Your Password](getting-started/accepting-your-invite.md)
   * [Your First Week Checklist](getting-started/first-week-checklist.md)
 
 ## Platform Guide

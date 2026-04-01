@@ -9,6 +9,6 @@ Whether you're setting up your account for the first time, uploading your existi
 * [What is Vissibl?](what-is-vissibl.md)
 * [Platform Overview](how-vissibl-works.md)
 * [Key Concepts & Terminology](key-concepts-and-terminology.md)
-* [Accepting Your Invite & Setting Your Password](accepting-your-invite.md)
 * [Uploading Your Documents](uploading-documents-to-the-vault.md)
+* [Accepting Your Invite & Setting Your Password](accepting-your-invite.md)
 * [Your First Week Checklist](first-week-checklist.md)
