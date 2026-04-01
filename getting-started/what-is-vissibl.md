@@ -1,13 +1,7 @@
 # What is Vissibl?
 
-Vissibl is a compliance operations platform with an AI co-pilot called Vissi. It brings your QHSE frameworks, documentation, evidence, risk registers, and vendor management into one place. Vissi handles the busywork - drafting and updating documents, collecting evidence, checking vendor readiness, flagging gaps - while your team stays in control of the decisions that matter. The longer you use it, the more it learns about your business, and the sharper it gets.
+Vissibl brings your compliance frameworks, documentation, evidence, risks, and vendor management into one place. The AI co-pilot, Vissi, handles the repetitive work: drafting documents, collecting evidence, flagging gaps, checking vendors. Your team stays in control of the decisions that matter.
 
-## What Vissibl does
+Vissibl is built for organisations that run operational compliance programs, typically QHSE and ISO frameworks like 9001, 14001, and 45001. Whether you manage one framework or several as an integrated management system, everything lives in a single workspace.
 
-* **Permanent Audit Readiness** - AI agents gather evidence from your systems continuously, so you're always ready for an audit, not just when one is coming up.
-* **Operational Velocity** - Compliance runs in the background while your team focuses on execution.
-* **Revenue Acceleration** - Maintain certifications and unlock enterprise contracts with evidence that's always up to date.
-
-## Supported frameworks
-
-Vissibl supports all major compliance frameworks including ISO 9001, ISO 14001, ISO 45001, ISO 27001, QBCC, WHS, API Q1/Q2, AS9100, IATF 16949, and more.
+Vissi, the AI built into the platform, works across your documents, risks, and vendor data. It can answer compliance questions grounded in your company context, create and update policies, and flag what needs attention. The longer you use Vissibl, the more it learns about your business.

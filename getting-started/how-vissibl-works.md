@@ -1,6 +1,6 @@
 # Platform Overview
 
-Here's where everything lives.
+Vissibl is organised around the sections you'll see in the left sidebar. Here's what each one does.
 
 ---
 
@@ -14,7 +14,7 @@ Here's where everything lives.
 
 **Frameworks.** Where you manage the ISO standards your organisation operates under. Each framework shows your current readiness score, the clauses you need to address, and any gaps Vissi has identified. You can also run a Vissi Audit from here to check your status.
 
-**Documentation.** Where your manuals, policies, and procedures live. Draft, review, approve, and publish with full version history using a clean, Notion-style editor. Documents are organised by framework.
+**Documentation.** Where you draft, review, approve, and publish policies, procedures, and manuals using Vissibl's built-in editor. Documents are organised by framework.
 
 **Vault.** Your secure document store. Upload your existing files here. Vissi will analyse them, extract metadata, and use them as context when answering your questions or identifying gaps.
 

@@ -6,18 +6,11 @@
 
 * [Introduction](getting-started/README.md)
   * [What is Vissibl?](getting-started/what-is-vissibl.md)
-  * [How Vissibl Works](getting-started/how-vissibl-works.md)
+  * [Platform Overview](getting-started/how-vissibl-works.md)
   * [Key Concepts & Terminology](getting-started/key-concepts-and-terminology.md)
-* [Setting Up Your Account](getting-started/accepting-your-invite.md)
-  * [Your First Login](getting-started/your-first-login.md)
-  * [Setting Up Your Company Profile](getting-started/setting-up-your-company-profile.md)
-  * [Selecting Your Frameworks](getting-started/selecting-your-frameworks.md)
-* [Onboarding Your Documents](getting-started/uploading-documents-to-the-vault.md)
-  * [Understanding Your Gap Analysis](getting-started/understanding-your-gap-analysis.md)
-  * [Reviewing and Publishing Policies](getting-started/reviewing-and-publishing-policies.md)
-* [Adding Your Team](getting-started/inviting-users.md)
-  * [Assigning Responsibilities](getting-started/assigning-responsibilities.md)
-* [Your First Week Checklist](getting-started/first-week-checklist.md)
+  * [Accepting Your Invite & Setting Your Password](getting-started/accepting-your-invite.md)
+  * [Uploading Your Documents](getting-started/uploading-documents-to-the-vault.md)
+  * [Your First Week Checklist](getting-started/first-week-checklist.md)
 
 ## Platform Guide
 
