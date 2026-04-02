@@ -2,7 +2,9 @@
 
 The Dashboard is the first screen you see when you log in. It gives you a summary of your compliance program across all your frameworks, so you can quickly see what's on track and what needs attention.
 
----
+***
+
+<figure><img src="../.gitbook/assets/dashboard.png" alt=""><figcaption></figcaption></figure>
 
 ### Frameworks
 
