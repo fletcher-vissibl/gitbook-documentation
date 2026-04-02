@@ -2,7 +2,7 @@
 
 Frameworks is where you manage the ISO standards your organisation operates under. You can see your readiness score for each framework, browse requirements clause by clause, and run a Vissi Audit to check your compliance status.
 
----
+***
 
 ### The Frameworks page
 
@@ -13,6 +13,8 @@ When you open Frameworks from the sidebar, you'll see a card for each standard y
 * The number of clauses in the framework.
 
 Click any card to open that framework.
+
+<figure><img src="../.gitbook/assets/frameworks01 1 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Inside a framework
 
@@ -25,6 +27,8 @@ For each requirement, you'll see:
 * **Gaps.** The number of gaps identified, or "No Gaps" if everything is in order.
 * **Action.** Click **View** to open the detail panel.
 
+<figure><img src="../.gitbook/assets/frameworks02 1.png" alt=""><figcaption></figcaption></figure>
+
 ### Clause detail panel
 
 Clicking **View** on any requirement opens a detail panel on the right side of the screen. This shows:
@@ -33,6 +37,8 @@ Clicking **View** on any requirement opens a detail panel on the right side of t
 * **Criteria Evaluation.** Vissi breaks the requirement down into specific criteria and evaluates each one against your documentation. Expand any criteria to see Vissi's reasoning, including which documents were referenced.
 * **Evidence.** Documents linked to this clause. Click any document to open it directly.
 * **Recommendation.** Vissi's guidance on what to do next, whether that's maintaining current practices or addressing specific gaps.
+
+<figure><img src="../.gitbook/assets/framework03 1.png" alt=""><figcaption></figcaption></figure>
 
 ### Running a Vissi Audit
 
