@@ -2,13 +2,15 @@
 
 Documentation is where you create, edit, and manage your compliance documents: manuals, policies, procedures, and forms. Every document goes through a managed lifecycle and is organised by framework.
 
----
+***
 
 ### Navigating Documentation
 
 Documents are organised by framework. Use the dropdown at the top of the page to switch between frameworks (e.g. ISO 9001, ISO 14001), or expand Documentation in the sidebar to jump to a specific one.
 
 Within each framework, documents are grouped into four categories: **Manuals**, **Policies**, **Procedures**, and **Forms**. Each document shows its name, version number, author, last updated date, and current status.
+
+<figure><img src="../.gitbook/assets/image 3.png" alt=""><figcaption></figcaption></figure>
 
 ### Document statuses
 
@@ -36,6 +38,8 @@ Click the **chevron icon** (>>) at the top of any document to open the details p
 
 The panel also has a **Workflow history** tab where you can see the review and approval history for that document.
 
+<figure><img src="../.gitbook/assets/image 2.png" alt=""><figcaption></figcaption></figure>
+
 ### Sending a document for review
 
 When your document is ready, click the **Publish** button dropdown and select the option to send it for review. You'll be asked to:
@@ -48,6 +52,8 @@ When your document is ready, click the **Publish** button dropdown and select th
 * Optionally enable **Reader Acknowledgment Workflow**, which collects read confirmations from relevant team members based on the document type.
 
 Click **Submit** to send the document into the review workflow.
+
+<figure><img src="../.gitbook/assets/image 4.png" alt=""><figcaption></figcaption></figure>
 
 ### Exporting documents
 
