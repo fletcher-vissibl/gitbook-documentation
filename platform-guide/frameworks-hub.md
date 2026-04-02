@@ -1,43 +1,41 @@
-# Frameworks Hub
+# Frameworks
 
-Navigate your ISO framework(s) by clause, track compliance status, and link evidence directly to requirements.
+Frameworks is where you manage the ISO standards your organisation operates under. You can see your readiness score for each framework, browse requirements clause by clause, and run a Vissi Audit to check your compliance status.
 
-## Navigating by clause
+---
 
-The Frameworks Hub organises your selected ISO standard(s) into a browseable clause structure. Click into any clause to see:
+### The Frameworks page
 
-* The requirement description.
-* Your current compliance status.
-* Linked documents and evidence.
+When you open Frameworks from the sidebar, you'll see a card for each standard you're managing (e.g. ISO 9001, ISO 14001, ISO 27001). Each card shows:
 
-## PDCA view
+* A readiness status label (e.g. "Good", "Critical").
+* A percentage score reflecting your current compliance.
+* The number of clauses in the framework.
 
-View your framework through the Plan-Do-Check-Act cycle:
+Click any card to open that framework.
 
-* **Plan** — Clauses related to planning, context, and leadership.
-* **Do** — Clauses related to operations and support.
-* **Check** — Clauses related to performance evaluation and monitoring.
-* **Act** — Clauses related to improvement and corrective actions.
+### Inside a framework
 
-## Clause status badges
+Each framework opens to a clause-by-clause view. Clauses are organised in tabs (Clause 4 through Clause 10 for most ISO standards), and each clause is broken down into its individual requirements.
 
-Each clause displays a status badge:
+For each requirement, you'll see:
 
-* **Compliant** — Documentation and evidence satisfy the requirement.
-* **Partially Compliant** — Some documentation exists but gaps remain.
-* **Non-Compliant** — No documentation or evidence addresses this requirement.
-* **Not Applicable** — The clause has been excluded with justification.
+* A description of what the requirement asks for.
+* **Status.** Whether the requirement conforms, has gaps, or hasn't been assessed yet.
+* **Gaps.** The number of gaps identified, or "No Gaps" if everything is in order.
+* **Action.** Click **View** to open the detail panel.
 
-## Linking documents & evidence to clauses
+### Clause detail panel
 
-For each clause, you can link:
+Clicking **View** on any requirement opens a detail panel on the right side of the screen. This shows:
 
-* Documents from the Documents module.
-* Files from the Vault.
-* Register entries, audit findings, or risk records.
+* **Compliance status.** Whether the requirement conforms or has gaps.
+* **Criteria Evaluation.** Vissi breaks the requirement down into specific criteria and evaluates each one against your documentation. Expand any criteria to see Vissi's reasoning, including which documents were referenced.
+* **Evidence.** Documents linked to this clause. Click any document to open it directly.
+* **Recommendation.** Vissi's guidance on what to do next, whether that's maintaining current practices or addressing specific gaps.
 
-This creates a clear audit trail showing how each requirement is addressed.
+### Running a Vissi Audit
 
-## IMS (Integrated Management System) view
+At the top right of any framework page, click **Run Vissi Audit**. Vissi will analyse your documentation and evidence against every clause in that framework, update your compliance statuses, identify gaps, and generate recommendations.
 
-If you're running multiple frameworks, the IMS view shows where clauses overlap across ISO 9001, 14001, and 45001. Shared clauses are grouped together so you can manage them once rather than duplicating effort.
+After the audit completes, your readiness score and clause statuses will update to reflect the results.
