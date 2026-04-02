@@ -16,18 +16,13 @@
 
 * [Overview](platform-guide/README.md)
 * [Dashboard](platform-guide/dashboard.md)
-* [Documents & Policies](platform-guide/documents-and-policies.md)
-* [The Vault](platform-guide/the-vault.md)
-* [Gap Analysis & Audit Readiness](platform-guide/gap-analysis-and-audit-readiness.md)
-* [Risk Management](platform-guide/risk-management.md)
-* [Non-Conformities](platform-guide/non-conformities.md)
-* [Audits](platform-guide/audits.md)
-* [Registers](platform-guide/registers.md)
-* [Vendor Management](platform-guide/vendor-management.md)
-* [Training](platform-guide/training.md)
-* [Organisational Chart](platform-guide/organisational-chart.md)
-* [Vissi (AI Assistant)](platform-guide/vissi-ai-assistant.md)
-* [Frameworks Hub](platform-guide/frameworks-hub.md)
+* [Frameworks](platform-guide/frameworks-hub.md)
+* [Documentation](platform-guide/documents-and-policies.md)
+* [Vault](platform-guide/the-vault.md)
+* [Vissi AI](platform-guide/vissi-ai-assistant.md)
+* [Non Conformities](platform-guide/non-conformities.md)
+* [Risk Assessment](platform-guide/risk-management.md)
+* [Vendors](platform-guide/vendor-management.md)
 
 ## Admin & Settings
 
