@@ -1,35 +1,35 @@
-# Non-Conformities (NCR / CAPA)
+# Non Conformities
 
-Track deviations, audit findings, and corrective actions in one place with Vissibl's Non-Conformities module.
+Non Conformities is where you track NCRs and CAPAs. It uses a visual board layout so you can see the status of every item at a glance and move them through the resolution process.
 
-## Creating a non-conformity
+---
 
-1. Navigate to **Non-Conformities** from the sidebar.
-2. Click **Add Non-Conformity**.
-3. Describe the issue, select the type (audit finding, customer complaint, internal observation, etc.).
-4. Assign an owner and set a due date.
+### The board view
 
-## Board view vs. List view
+When you open Non Conformities, you'll see a kanban-style board with columns representing each stage of the workflow (e.g. Opened, In Progress, In Review, Closed). Each card on the board represents a non-conformity.
 
-Vissibl offers two ways to manage your NCRs:
+Drag and drop cards between columns to update their status as work progresses.
 
-* **Board view** — A visual Kanban-style board. Drag and drop items between status columns (Open, In Progress, Under Review, Closed).
-* **List view** — A traditional table layout for filtering and sorting.
+### Creating a non-conformity
 
-## Immediate actions vs. corrective actions
+1. Click **+ Add** or the equivalent button to create a new item.
+2. Give it a title and description of the issue.
+3. Set the priority level (e.g. High, Medium, Low).
+4. Assign an owner who is responsible for resolving it.
+5. Add an observation or note describing how the issue was identified (audit finding, customer complaint, internal observation, etc.).
 
-* **Immediate actions** — What you did right away to contain the issue (e.g., quarantined product, stopped the process).
-* **Corrective actions** — The longer-term fix that addresses the root cause and prevents recurrence.
+### Working on a non-conformity
 
-## Root cause analysis
+Click any card to open its detail view. From here you can:
 
-For each non-conformity, document the root cause. This is critical for demonstrating to auditors that you're not just treating symptoms.
+* Document the **root cause** of the issue.
+* Define the **corrective action** (what will be done to fix it) and **preventive action** (what will stop it happening again).
+* Link to relevant **procedures** or **documents** affected by the non-conformity.
+* Track the **status** and update it as work progresses.
+* Add comments or notes as the investigation develops.
 
-## Tracking NCRs to closure
+### Tips
 
-An NCR is only closed when:
-
-1. The root cause has been identified.
-2. Corrective actions have been implemented.
-3. Evidence of effectiveness has been recorded.
-4. The responsible person has verified closure.
+* Use the board to run your regular NCR review meetings. The visual layout makes it easy to walk through open items as a team.
+* Don't close an item until both the corrective and preventive actions are complete and verified.
+* Non-conformity counts and statuses feed into your Dashboard, so keeping the board current keeps your overview accurate.
