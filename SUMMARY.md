@@ -18,7 +18,6 @@
 * [Dashboard](platform-guide/dashboard.md)
 * [Frameworks](platform-guide/frameworks-hub.md)
 * [Documentation](platform-guide/documents-and-policies.md)
-* [Vault](platform-guide/the-vault.md)
 * [Vissi AI](platform-guide/vissi-ai-assistant.md)
 * [Non Conformities](platform-guide/non-conformities.md)
 * [Risk Assessment](platform-guide/risk-management.md)
