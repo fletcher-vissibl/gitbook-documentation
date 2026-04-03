@@ -1,37 +1,33 @@
-# Vissi (AI Assistant)
+# Vissi AI
 
-Vissi is Vissibl's built-in AI assistant. Ask compliance questions in plain English and get answers grounded in your own documents.
+Vissi is your AI co-pilot. It knows your documents, your risks, your vendors, and your compliance status. You can ask it questions in plain English and it will answer using your company's data, or you can ask it to take action like creating and updating documents.
 
-## What is Vissi?
+---
 
-Vissi is an AI co-pilot designed specifically for compliance. It understands ISO frameworks and uses your company's uploaded documents to give you contextual, relevant answers.
+### Asking questions
 
-## Asking compliance questions
+Open **Vissi AI** from the sidebar or use Quick Actions (shortcut: K) and select "Ask Vissi AI." Type your question in the chat bar and Vissi will respond using your company context.
 
-Open Vissi from the sidebar and type your question. Examples:
+Vissi can pull information from across the platform. For example:
 
-* "What does our emergency preparedness procedure cover?"
-* "Do we have a document addressing clause 8.2.1?"
-* "What are our quality objectives?"
-* "Who is responsible for management review?"
+* "Do I have any outstanding actions I should take care of?" Vissi will summarise open items across your risks, NCRs/CAPAs, management reviews, and other registers.
+* "What are the gaps in my ISO 9001 program?" Vissi will reference your most recent gap analysis.
+* "What does our waste management procedure say about disposal?" Vissi will search your documents and respond with the relevant content.
 
-## How Vissi uses your documents
+### Taking action
 
-Vissi draws on:
+Beyond answering questions, Vissi can carry out tasks on your behalf:
 
-* **Vault files** — Everything you've uploaded (PDFs, Word docs, spreadsheets).
-* **Published documents** — Policies and procedures created in Vissibl's editor.
-* **Framework knowledge** — Built-in understanding of ISO 9001, 14001, and 45001 requirements.
+* Draft new policies and procedures based on your company context and frameworks.
+* Update existing documents.
+* Reformat or restructure a document you're working on (using the Vissi sparkle icon in the Documentation editor).
 
-The more documents you upload, the better Vissi's answers become.
+### Chat history
 
-## Understanding citations & sources
+Each conversation is saved. Click the **clock icon** in the top right to browse your previous chats, or click **+** to start a new one. Conversations are titled based on your first message so you can find them later.
 
-Every answer from Vissi includes **citations** — references to the specific documents and sections that inform the answer. Click a citation to go directly to the source.
+### Tips
 
-## Tips for getting better answers
-
-* **Be specific** — "What does our waste management procedure say about hazardous waste?" gives better results than "Tell me about waste."
-* **Upload more documents** — The more context Vissi has, the better it performs.
-* **Ask follow-up questions** — Vissi maintains context within a conversation.
-* **Check the citations** — Always verify Vissi's answers against the source documents, especially for audit-critical information.
+* Be specific. "What are my highest-priority open risks for ISO 14001?" will give you a more useful answer than "tell me about risks."
+* Vissi works best when your Vault and Documentation are up to date. The more current your documents and evidence, the more accurate Vissi's answers.
+* You can ask follow-up questions in the same chat. Vissi keeps the conversation context, so you can drill into a topic without repeating yourself.
