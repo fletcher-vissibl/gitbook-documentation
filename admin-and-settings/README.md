@@ -11,3 +11,5 @@ Settings is organised into four sections:
 **Security & Access.** Two-factor authentication and user management.
 
 **Account.** Sign out of your workspace.
+
+For billing and subscription enquiries, contact your Vissibl account manager or email support.
