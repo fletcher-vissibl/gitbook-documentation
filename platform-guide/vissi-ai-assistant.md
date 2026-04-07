@@ -2,7 +2,9 @@
 
 Vissi is your AI co-pilot. It knows your documents, your risks, your vendors, and your compliance status. You can ask it questions in plain English and it will answer using your company's data, or you can ask it to take action like creating and updating documents.
 
----
+***
+
+<figure><img src="../.gitbook/assets/image 5.png" alt=""><figcaption></figcaption></figure>
 
 ### Asking questions
 
@@ -13,6 +15,8 @@ Vissi can pull information from across the platform. For example:
 * "Do I have any outstanding actions I should take care of?" Vissi will summarise open items across your risks, NCRs/CAPAs, management reviews, and other registers.
 * "What are the gaps in my ISO 9001 program?" Vissi will reference your most recent gap analysis.
 * "What does our waste management procedure say about disposal?" Vissi will search your documents and respond with the relevant content.
+
+<figure><img src="../.gitbook/assets/image 6.png" alt=""><figcaption></figcaption></figure>
 
 ### Taking action
 
