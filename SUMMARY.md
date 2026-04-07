@@ -16,12 +16,14 @@
 
 * [Overview](platform-guide/README.md)
 * [Dashboard](platform-guide/dashboard.md)
+* [Vissi AI](platform-guide/vissi-ai-assistant.md)
 * [Frameworks](platform-guide/frameworks-hub.md)
 * [Documentation](platform-guide/documents-and-policies.md)
-* [Vissi AI](platform-guide/vissi-ai-assistant.md)
 * [Non Conformities](platform-guide/non-conformities.md)
 * [Risk Assessment](platform-guide/risk-management.md)
 * [Vendors](platform-guide/vendor-management.md)
+* [Vendor Risk Analysis](platform-guide/vendor-risk-analysis.md)
+* [Vendor Assessment Setup](platform-guide/vendor-assessment-setup.md)
 
 ## Admin & Settings
 
