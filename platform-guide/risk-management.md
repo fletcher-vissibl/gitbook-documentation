@@ -2,7 +2,7 @@
 
 Risk Assessment is where you identify, score, and track risks and opportunities across your compliance program. Each item has an owner, a probability and impact score, and a treatment plan.
 
----
+***
 
 ### The risk register
 
@@ -35,6 +35,8 @@ Click any row to open the detail panel on the right. This shows the full risk pr
 * **Risk Treatment Strategy.** How you plan to respond (e.g. Mitigate, Reduce, Exploit for opportunities).
 
 The panel also has an **Attachments** tab for supporting documents.
+
+<figure><img src="../.gitbook/assets/image 9.png" alt=""><figcaption></figcaption></figure>
 
 ### Tips
 
