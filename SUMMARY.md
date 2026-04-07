@@ -25,12 +25,15 @@
 * [Vendor Risk Analysis](platform-guide/vendor-risk-analysis.md)
 * [Vendor Assessment Setup](platform-guide/vendor-assessment-setup.md)
 
-## Admin & Settings
+## Settings
 
 * [Overview](admin-and-settings/README.md)
-* [User Management](admin-and-settings/user-management.md)
-* [Company Settings](admin-and-settings/company-settings.md)
-* [Billing & Subscription](admin-and-settings/billing-and-subscription.md)
+* [User Profile & Appearance](admin-and-settings/user-profile-and-appearance.md)
+* [Company Profile](admin-and-settings/company-profile.md)
+* [AI Company Context](admin-and-settings/ai-company-context.md)
+* [Document Vault](admin-and-settings/document-vault.md)
+* [Security](admin-and-settings/security.md)
+* [Managing Users](admin-and-settings/managing-users.md)
 
 ## Compliance Basics
 

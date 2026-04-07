@@ -28,6 +28,7 @@ If you're an account owner or admin and want to add people to your workspace:
 2. Click **+ User** in the top right.
 3. Enter their details and assign a role:
    - **Owner** can manage the account, users, and all settings.
+   - **Admin** has full access to all modules and settings, except billing. Can manage users.
    - **Editor** can create and modify content across the platform.
    - **Viewer** can view content but not make changes.
 4. They'll receive an email invitation to set up their password and access the workspace.
