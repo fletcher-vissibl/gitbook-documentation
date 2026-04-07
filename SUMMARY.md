@@ -35,21 +35,9 @@
 * [Security](admin-and-settings/security.md)
 * [Managing Users](admin-and-settings/managing-users.md)
 
-## Compliance Basics
 
-* [Overview](compliance-basics/README.md)
-* [ISO 9001 Essentials](compliance-basics/iso-9001-essentials.md)
-* [ISO 14001 Essentials](compliance-basics/iso-14001-essentials.md)
-* [ISO 45001 Essentials](compliance-basics/iso-45001-essentials.md)
-* [Integrated Management System (IMS)](compliance-basics/integrated-management-system.md)
-* [Preparing for Your Audit](compliance-basics/preparing-for-your-audit.md)
-* [Quality Objectives & KPIs](compliance-basics/quality-objectives-and-kpis.md)
-* [Internal Auditing](compliance-basics/internal-auditing.md)
-
-## FAQ & Troubleshooting
+## FAQ & Support
 
 * [Overview](faqs/README.md)
 * [Common Questions](faqs/general-questions.md)
-* [Troubleshooting Uploads](faqs/troubleshooting-uploads.md)
-* [Browser Compatibility](faqs/browser-compatibility.md)
 * [Contacting Support](faqs/contacting-support.md)
