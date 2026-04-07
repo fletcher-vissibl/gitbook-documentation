@@ -1,19 +1,17 @@
 # Contacting Support
 
-We're here to help. Here's how to reach the Vissibl team:
+### Your account manager
 
-## In-app support
+Your first point of contact for onboarding questions, training, and account-level support. If you're not sure who your account manager is, check with the person who set up your Vissibl workspace.
 
-Use the support chat within Vissibl for the fastest response. Our team typically responds within a few hours during business hours.
+### Vissi AI
 
-## Email
+For compliance and platform questions, ask Vissi directly. Vissi can answer questions using your documents and company context, and carry out tasks like updating documents or surfacing open actions.
 
-Reach out to our support team via email for non-urgent questions or detailed enquiries.
+### Email
 
-## Your account manager
+If you can't reach your account manager, email **fletcher@vissibl.com** and we'll get back to you.
 
-If you have a dedicated account manager, they're your first point of contact for onboarding questions, training, and account-level support.
+### Help Centre
 
-## Help Centre
-
-You're already here! Browse our articles for self-service answers to common questions.
+You're already here. Browse our articles for self-service answers to common questions.
