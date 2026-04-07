@@ -20,6 +20,7 @@
 * [Frameworks](platform-guide/frameworks-hub.md)
 * [Documentation](platform-guide/documents-and-policies.md)
 * [Non Conformities](platform-guide/non-conformities.md)
+* [My Audits](platform-guide/my-audits.md)
 * [Risk Assessment](platform-guide/risk-management.md)
 * [Vendors](platform-guide/vendor-management.md)
 * [Vendor Risk Analysis](platform-guide/vendor-risk-analysis.md)

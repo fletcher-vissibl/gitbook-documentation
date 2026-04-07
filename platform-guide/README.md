@@ -9,6 +9,7 @@ Your module-by-module reference to Vissibl. Each section covers what it does and
 * [Frameworks](frameworks-hub.md)
 * [Documentation](documents-and-policies.md)
 * [Non Conformities](non-conformities.md)
+* [My Audits](my-audits.md)
 * [Risk Assessment](risk-management.md)
 * [Vendors](vendor-management.md)
 * [Vendor Risk Analysis](vendor-risk-analysis.md)
