@@ -1,53 +1,44 @@
-# Risk Management
+# Risk Assessment
 
-The Risk Management module gives you a structured risk register with scoring, ownership, and treatment tracking.
+Risk Assessment is where you identify, score, and track risks and opportunities across your compliance program. Each item has an owner, a probability and impact score, and a treatment plan.
 
-## Viewing your risk register
+---
 
-Your risk register lists all identified risks with their current scores, owners, and treatment status. You can filter and sort by likelihood, impact, status, or owner.
+### The risk register
 
-## Understanding risk scoring
+When you open Risk Assessment, you'll see a table listing all identified risks and opportunities. Columns include Risk ID, Type (Risk or Opportunity), a description, risk details, the process or quality objective impacted, and probability/likelihood scoring.
 
-Risks are scored using a **likelihood × impact** formula:
+Use the **framework dropdown** in the top left to filter by a specific standard (e.g. ISO 9001, ISO 14001). Use **Search** and **Filter** to narrow the list further.
 
-* **Likelihood** — How likely is the risk to occur? (1 = Rare, 5 = Almost Certain)
-* **Impact** — How severe would the consequences be? (1 = Negligible, 5 = Catastrophic)
+### Adding a risk
 
-The resulting score (1–25) determines the risk rating.
+Click **+ Risk** in the top right to add a new item manually, or click **+ Add Row** at the bottom of the table.
 
-## The 5×5 risk matrix explained
+### Generating risks with Vissi
 
-| | Negligible (1) | Minor (2) | Moderate (3) | Major (4) | Catastrophic (5) |
-| --- | --- | --- | --- | --- | --- |
-| **Almost Certain (5)** | 5 | 10 | 15 | 20 | 25 |
-| **Likely (4)** | 4 | 8 | 12 | 16 | 20 |
-| **Possible (3)** | 3 | 6 | 9 | 12 | 15 |
-| **Unlikely (2)** | 2 | 4 | 6 | 8 | 10 |
-| **Rare (1)** | 1 | 2 | 3 | 4 | 5 |
+Click the **Vissi sparkle icon** (next to the + Risk button) to run the risk agent. Vissi will analyse your organisational context, documents, and frameworks to generate a set of relevant risks automatically. Review and adjust these as needed.
 
-## Adding and editing risks
+### Detail view
 
-1. Click **Add Risk** to create a new entry.
-2. Describe the risk, set the likelihood and impact scores.
-3. Assign an owner and add any relevant notes.
+Click any row to open the detail panel on the right. This shows the full risk profile:
 
-## Pre-treatment vs. post-treatment risk
+* **Risk ID.** Automatically assigned (e.g. RSK001, OPP232).
+* **Type of Risk.** Risk or Opportunity.
+* **Risk / Opportunity description.** What the risk or opportunity is.
+* **Risk Details.** Additional context and analysis.
+* **Process / Quality Objective Impacted.** Which processes or objectives are affected.
+* **Probability / Likelihood Rating.** How likely it is to occur.
+* **Impact Rating.** How severe the consequences would be.
+* **Risk Score.** Calculated automatically (Likelihood x Impact).
+* **Risk Rating.** The overall rating (e.g. High, Medium, Low) based on the score.
+* **Risk Appetite.** Whether the risk is accepted or not.
+* **Risk Treatment Strategy.** How you plan to respond (e.g. Mitigate, Reduce, Exploit for opportunities).
 
-Each risk has two scores:
+The panel also has an **Attachments** tab for supporting documents.
 
-* **Pre-treatment** — The inherent risk before any controls or mitigations are applied.
-* **Post-treatment** — The residual risk after treatments are implemented.
+### Tips
 
-This lets you demonstrate to auditors that your controls are effective.
-
-## Assigning risk owners
-
-Every risk should have a named owner — the person accountable for monitoring the risk and implementing treatments.
-
-## Implementation status tracking
-
-Track the progress of risk treatments with status indicators:
-
-* **Not Started** — Treatment hasn't begun.
-* **In Progress** — Treatment is underway.
-* **Completed** — Treatment has been fully implemented.
+* Risk counts and severity levels feed into your Dashboard, so keeping this register current gives leadership an accurate picture.
+* Your compliance consultant may have seeded initial risks during onboarding. Review these early and update owners and treatment plans where needed.
+* Use the Vissi risk agent after uploading new documents or adding a framework. It will pick up on risks you might not have considered.
+* Risks and Opportunities are tracked in the same register. Use the Type column to distinguish between them.
