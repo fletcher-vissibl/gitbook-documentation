@@ -2,7 +2,7 @@
 
 Non Conformities is where you track NCRs and CAPAs. It uses a visual board layout so you can see the status of every item at a glance and move them through the resolution process.
 
----
+***
 
 ### The board view
 
@@ -11,6 +11,8 @@ When you open Non Conformities, you'll see a kanban-style board with four column
 Drag and drop cards between columns to update their status as work progresses.
 
 You can also switch to **List View** using the toggle at the top of the page.
+
+<figure><img src="../.gitbook/assets/image 7.png" alt=""><figcaption></figcaption></figure>
 
 ### Filtering by audit
 
@@ -39,6 +41,8 @@ Click any card to open the detail panel on the right. This is where you document
 * **Evidence.** Upload files to prove the corrective action has been implemented.
 
 The panel also has an **Attachments** tab for any additional supporting documents.
+
+<figure><img src="../.gitbook/assets/image 8.png" alt=""><figcaption></figcaption></figure>
 
 ### Tips
 
