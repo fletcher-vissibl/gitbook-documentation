@@ -41,10 +41,6 @@
 * [Quality Objectives & KPIs](compliance-basics/quality-objectives-and-kpis.md)
 * [Internal Auditing](compliance-basics/internal-auditing.md)
 
-## What's New
-
-* [Release Notes](whats-new/README.md)
-
 ## FAQ & Troubleshooting
 
 * [Overview](faqs/README.md)
