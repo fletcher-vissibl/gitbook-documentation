@@ -20,7 +20,7 @@ Click the **Vissi sparkle icon** (next to the + Risk button) to run the risk age
 
 ### Detail view
 
-Click any row to open the detail panel on the right. This shows the full risk profile:
+Click any row to open the detail panel on the right. This shows the full risk assessment. The view varries slightly to match the requirements of the Standards. ISO 9001 e. g. has follwoing atributes:
 
 * **Risk ID.** Automatically assigned (e.g. RSK001, OPP232).
 * **Type of Risk.** Risk or Opportunity.
