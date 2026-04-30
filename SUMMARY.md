@@ -16,6 +16,7 @@
 
 * [Overview](platform-guide/README.md)
 * [Dashboard](platform-guide/dashboard.md)
+* [My Tasks](platform-guide/my-tasks.md)
 * [Vissi AI](platform-guide/vissi-ai-assistant.md)
 * [Frameworks](platform-guide/frameworks-hub.md)
 * [Documentation](platform-guide/documents-and-policies.md)
