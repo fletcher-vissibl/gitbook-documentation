@@ -1,44 +1,95 @@
 # Vendors
 
-Vendors is where you manage your vendor relationships: onboard new vendors, run AI-powered research, review their submissions, and track their status over time.
-
----
+Vendors is where you manage your vendor relationships: onboard new vendors, review their submissions, and track their status over time.
 
 ### The vendor list
 
-When you open Vendors, you'll see a table of all your vendors organised into category tabs (e.g. Software Vendors, Hardware Vendors, Hospitality). You can create new categories using the **+** button next to the tabs.
+When you open Vendors, you'll see a table of all your vendors. You can create a new vendor from the **+ Vendor** button in the top-right corner.
+
+<figure><img src="../.gitbook/assets/01-vendor-table.png" alt=""><figcaption></figcaption></figure>
+
+The Vendors table with the **+ Vendor** menu.
 
 Each vendor shows:
 
 * **Vendor ID.** Automatically assigned.
-* **Vendor Name** and **Email.**
-* **Vendor Status.** Where they are in the process (Vendor Invited, Sent Evaluation From, Submitted).
-* **Vendor Criticality.** How important this vendor is to your operations (High, Medium, Low).
-* **Vendor Audit Period.** How often the vendor should be reviewed (e.g. 6 Months, 1 Year, 18 Months).
+* **Vendor Name** and **Email**.
+* **Vendor Status.** Where they are in the process, for example **Created**, **Vendor Invited**, or **Approved Onboarding Form**.
+* **Vendor Criticality.** How important this vendor is to your operations, for example High, Medium, or Low.
+* **Vendor Audit Period.** How often the vendor should be reviewed.
 * **Files.** Upload or view documents associated with the vendor.
 
 ### Adding a vendor
 
-Click **+ Vendor** in the top right, or use Quick Actions (shortcut: K) and select "Invite Vendor." Enter the vendor's name and email. They'll receive an invitation to complete your onboarding questionnaire.
+Click **+ Vendor** in the top right and select **Add Vendor**. Complete the vendor's core details, including name, email, website, criticality, audit period, and notes, then click **Create Record**.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Use the Add Vendor form to create the initial vendor record.
+
+Once the record has been created, the vendor appears in the table and can be invited to complete onboarding.
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+Select the vendor row to access **Send Invite**.
+
+### Inviting a vendor
+
+After selecting the vendor, click **Send Invite**. Confirm the vendor's name, email, and website, then send the invitation.
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+The Invite Vendor dialog lets you confirm the contact details before sending.
+
+
+
+The vendor receives an email from Vissibl with a link to open the onboarding form.
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+Invitation email sent to the vendor.
+
+### Onboard Form
+
+The vendor opens the **Vendor Form** and completes the requested business and registration details. This is the onboarding questionnaire your team later reviews.
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+The vendor completes the onboarding form in Vissibl.
 
 ### Vendor detail view
 
 Click any vendor to open their full profile. The profile is organised into tabs across the top:
 
-**Details.** The vendor's core information: name, email, status, criticality, audit period, address, department, tags, and uploaded files. You can also add custom properties with **+ Add Property**.
+* **Details.** The vendor's core information, such as name, email, status, criticality, audit period, and uploaded files.
+* **Onboard Form.** Shows the vendor's completed responses to your onboarding questionnaire.
+* **Attachments.** Any additional files attached to the vendor profile.
 
-**Vissi Research.** An AI-generated research and due diligence report on the vendor. Vissi pulls publicly available information and compiles a detailed report covering legal and corporate information, key people, certifications, and risk indicators. Click **Re-run research** to generate a fresh report. You can download the report as a branded PDF using the download icon. The PDF includes an executive summary with an overall risk rating, a risk category breakdown (Legal, Financial, Workplace Safety, Regulatory, Sanctions, Reputational, Key Person, Environmental), key findings, and a recommendation (Approve, Conditional Approval, or Reject). This is useful for sharing with procurement, leadership, or clients.
+### Reviewing the submission
 
-**Risks.** A full vendor risk analysis. Covered in detail in the [Vendor Risk Analysis](vendor-risk-analysis.md) guide.
+Once the vendor has submitted the onboarding form, open the vendor by clicking the **Vendor ID**. In **Vendor Onboarding Review**, review the submitted answers and decide what should happen next.
 
-**Onboard Form.** Shows the vendor's completed responses to your onboarding questionnaire. This is a read-only view of what the vendor submitted, so you can review their answers without leaving their profile.
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-**Eval Form.** The evaluation your team has completed for this vendor based on your Vendor Evaluation criteria.
+Review the submitted answers and choose the next action.
 
-**Attachments.** Any additional files attached to the vendor profile.
+On the review screen, Vissibl provides three actions:
+
+* **Accept.** Approve the vendor submission.
+* **Reject.** Reject the vendor submission.
+* **Request Review.** Ask the vendor to provide corrections or additional information.
+
+### Request Review
+
+If information is missing or unclear, click **Request Review**, add a message, select the questions that need to be updated, and send the request back to the vendor.
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+Use Request Review when you need clarifications or corrections from the vendor.
 
 ### Tips
 
-* Vendor counts, approval status, and high-risk vendor alerts feed into your Dashboard.
-* Run Vissi Research on every vendor. The due diligence report gives you a baseline of publicly available information before you even look at their questionnaire responses. Download the PDF to share with procurement or leadership as part of your vendor approval process.
-* Pay attention to Vendor Audit Period. When a review is due, you'll want the vendor's information up to date.
+* Check the vendor's email address before sending the invitation.
+* Set Vendor Criticality and Vendor Audit Period when creating the record so the vendor is classified correctly from the start.
+* Use **Request Review** when the vendor should remain in progress but the submission is not yet ready for approval.
+* Use the vendor status to track which suppliers are still awaiting review or approval.
