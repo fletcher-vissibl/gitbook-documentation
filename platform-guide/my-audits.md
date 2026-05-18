@@ -14,10 +14,6 @@ When you open **My Audits**, you'll see a table of all your audits. Each row sho
 * **Department Audited.**
 * **Auditee Name.**
 
-<figure><img src="../.gitbook/assets/unknown.png" alt="Audit table showing rows with columns for ID, name, type, framework, dates, and status"><figcaption></figcaption></figure>
-
-**The audit list.** Use Search and Filter to find specific audits.
-
 ### Creating an Audit
 
 Click + Audit in the top right. Fill in:
