@@ -34,7 +34,7 @@ Click + Audit in the top right. Fill in:
 
 Click any audit to open it. The detail view has three tabs: **Details**, **Clauses**, and **Attachments**.
 
-<figure><img src="../.gitbook/assets/unknown (1).png" alt="Expanded audit row showing details with clauses, status, and assigned people"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 **Expanded audit row.** Click a row to see its full details — clauses, status, assigned people.
 
